@@ -1,0 +1,5 @@
+or dont idc
+
+
+pkill -f manage.py
+if still running after CTRL-C
